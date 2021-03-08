@@ -1,7 +1,6 @@
 name: external_package
 description: This is a flutter package which takes a Json File and converts it to ListView widget
-version: 0.0.1
-author: Anil Chouhan <anil.21810948@viit.ac.in>
+version: 0.0.2
 homepage: https://github.com/anilChouhan-sh/external_package
 
 environment:

@@ -4,15 +4,15 @@ import 'package:flutter/material.dart';
 
 
 
-class Json_to_list extends StatefulWidget {
+class vishwaCTF extends StatefulWidget {
   String _key;
-  Json_to_list(this._key);
+  vishwaCTF(this._key);
 
   @override
-  _Json_to_listState createState() => _Json_to_listState();
+  _vishwaCTFState createState() => _vishwaCTFState();
 }
 
-class _Json_to_listState extends State<Json_to_list> {
+class _vishwaCTFState extends State<vishwaCTF> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
