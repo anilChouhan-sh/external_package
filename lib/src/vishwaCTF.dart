@@ -23,7 +23,7 @@ class _vishwaCTFState extends State<vishwaCTF> {
               var data = json.decode(snapshot.data.toString());
 
               return Container(
-                height: MediaQuery.of(context).size.height,
+                height: MediaQuery.of(context).size.height - 100 ,
                 width: MediaQuery.of(context).size.width,
                 child: ListView.builder(
                   itemCount: data?.length,

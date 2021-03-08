@@ -1,6 +1,6 @@
 # external_package
 
-A new Flutter package.
+Convert Json to Listview builder.
 
 ## Getting Started
 
