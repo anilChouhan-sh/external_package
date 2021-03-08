@@ -1,4 +1,4 @@
-# first_package
+# external_package
 
 A new Flutter package.
 
